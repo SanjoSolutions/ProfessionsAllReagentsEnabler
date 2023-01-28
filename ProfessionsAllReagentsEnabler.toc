@@ -1,0 +1,4 @@
+## Title: Professions All Reagents Enabler
+## Interface: 100002
+
+ProfessionsAllReagentsEnabler.lua
